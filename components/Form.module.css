@@ -1,0 +1,22 @@
+.form{
+    padding: 1rem;
+    background-color: inherit;
+    display: flex;
+}
+.form input{
+    width: 100%;
+    border-radius: 6px;
+    padding: 0.2rem;
+    font: inherit;
+    background-color: transparent;
+}
+.form button{
+    padding: 0.5rem 1.5rem;
+    background-color: blue;
+    border-radius: 6px;
+    margin-left: 0.5rem;
+    color: white;
+}
+.card{
+    margin-top: -3rem;
+}

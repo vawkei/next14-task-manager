@@ -1,0 +1,40 @@
+
+.card{
+    margin: 9rem auto;
+
+}
+.card h2{
+    text-align: center;
+    
+}
+.card form{
+    padding: 1rem;
+}
+form .control{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.control label{
+    font-size: 1rem;
+    
+}
+
+.control input{
+    margin: 0.2rem;
+    width: 20rem;
+    padding: 0.2rem;
+    border-radius: 6px;
+    font-size: 1.2rem;
+}
+
+.action button{
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: white;
+    border-radius: 6px;
+    background-color: blue;
+    cursor: pointer;
+}
